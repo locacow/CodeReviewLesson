@@ -1,1 +1,5 @@
 /eslint.config.js
+/package.json
+/package-lock.json
+/.idea/
+/node_modules/
