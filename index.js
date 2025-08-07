@@ -1,4 +1,3 @@
-/* eslint-disable */
 
 const userName='john';  // Missing spaces, no semicolon
 const userAge = 25;    // Unused variable
