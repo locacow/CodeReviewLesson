@@ -1,0 +1,17 @@
+{
+  "name": "CodeReviewLesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AreaCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "eslint": "^9.31.0",
+    "globals": "^16.3.0",
+    "typescript-eslint": "^8.38.0"
+  }
+}

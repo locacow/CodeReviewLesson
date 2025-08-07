@@ -32,19 +32,19 @@
 //
 //
 //
-//
-//
-//
-//
-// export function calculateAreaFixed(length, width) {
-//     if (!length || !width || length <= 0 || width <= 0) {
-//         throw new Error("Length and width must be positive numbers");
-//     }
-//     return length * width;
-// }
-//
-//
-//
+
+
+
+
+export function calculateAreaFixed(length, width) {
+    if (!length || !width || length <= 0 || width <= 0) {
+        throw new Error("Length and width must be positive numbers");
+    }
+    return length * width;
+}
+
+console.log('just a new line');
+
 // //
 // // const len = 10;
 // // const wid = 4;
