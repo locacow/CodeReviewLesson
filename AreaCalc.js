@@ -43,7 +43,6 @@ export function calculateAreaFixed(length, width) {
     return length * width;
 }
 
-console.log('just a new line');
 
 // //
 // // const len = 10;
